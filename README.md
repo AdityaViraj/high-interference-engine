@@ -1,4 +1,4 @@
-# High-Performance HFT Inference Engine
+# High Performance Interference Engine
 
 A low-latency C++ inference engine designed for sub-microsecond prediction of financial signals. This project demonstrates the application of **System Architecture** and **OS-level optimizations** to achieve maximum throughput on ARM-based silicon (Apple M-series).
 
